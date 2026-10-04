@@ -117,7 +117,8 @@ The Docker container achieved a slightly higher CPU throughput of **1751.35 even
 
 ## Performance Graph
 
-![CPU Comparison](results/cpu_comparison.png)
+![CPU Comparison](results/cpu_comparison.png)<img width="2100" height="1500" alt="image" src="https://github.com/user-attachments/assets/e8bcf7dd-3545-411f-b85f-d2a376a9db5e" />
+
 
 ---
 
@@ -137,7 +138,8 @@ The results show that CPU throughput does not increase linearly with thread coun
 
 ## Performance Graph
 
-![CPU Scalability](results/cpu_scalability.png)
+<img width="2400" height="1500" alt="image" src="https://github.com/user-attachments/assets/ae493eae-edb5-44a4-b2ca-1c5bb2d7dc75" />
+
 
 ---
 
@@ -158,7 +160,8 @@ The VM produced higher memory throughput than the Docker container in this exper
 
 ## Performance Graph
 
-![Memory Comparison](results/memory_comparison.png)
+<img width="2100" height="1500" alt="image" src="https://github.com/user-attachments/assets/14332ff2-a0be-4e1e-b25c-fba9159d2cfe" />
+
 
 ---
 
@@ -185,7 +188,8 @@ results/raw/disk/vm/
 
 ## Performance Graph
 
-![Disk Comparison](results/disk_comparison.png)
+<img width="2100" height="1500" alt="image" src="https://github.com/user-attachments/assets/b3401736-65dc-41f4-a688-f164d935afe4" />
+
 
 ---
 
@@ -210,7 +214,8 @@ This is a local VM-interface benchmark and does not represent Internet bandwidth
 
 ## Performance Graph
 
-![Network Comparison](results/network_comparison.png)
+<img width="2100" height="1500" alt="image" src="https://github.com/user-attachments/assets/008fda57-2745-4cdb-ab87-3a7cae8bdfa7" />
+
 
 ---
 
@@ -241,7 +246,8 @@ The VM achieved higher API throughput than the Docker container in the combined 
 
 ## Performance Graph
 
-![API Comparison](results/api_comparison.png)
+<img width="2100" height="1500" alt="image" src="https://github.com/user-attachments/assets/b8860cd6-fef8-4078-9679-0529e27cdacc" />
+
 
 Raw API results are stored in:
 
@@ -268,7 +274,8 @@ The results show that API throughput changes with increasing concurrency. In thi
 
 ## Performance Graph
 
-![API Scalability](results/api_scalability.png)
+<img width="2400" height="1500" alt="image" src="https://github.com/user-attachments/assets/90e5c0b3-8bc4-46bb-8233-3d74983fc834" />
+
 
 Raw scalability results are stored in:
 
